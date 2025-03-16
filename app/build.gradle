@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'mango.flutter.dummy'
+    namespace 'flutter.mock'
     compileSdk 35
 
     defaultConfig {
-        applicationId "mango.flutter.dummy"
+        applicationId "flutter.mock"
         minSdk 21
         targetSdk 35
         versionCode 1

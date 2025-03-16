@@ -1,4 +1,4 @@
-package mango.flutter.dummy
+package flutter.mock
 
 import org.junit.Test
 
