@@ -33,12 +33,12 @@ dependencyResolutionManagement {
 In your app's gradle (Module's App):
 ```groovy
 dependencies {
-    implementation 'com.github.gubnota:flutter-mock:v7'
+    implementation 'com.github.gubnota:flutter-mock:v9'
 }
 ```
 ```kotlin
 dependencies {
-    implementation("com.github.gubnota:flutter-mock:v7")
+    implementation("com.github.gubnota:flutter-mock:v9")
 }
 ```
 
