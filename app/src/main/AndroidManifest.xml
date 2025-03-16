@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-    <!-- This forces the use of the library, but may lead to runtime failures if it uses APIs not available on API level 12 -->
-    <uses-sdk tools:overrideLibrary="mango" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,6 +12,5 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mangoflutterdummy"
         tools:targetApi="31" />
-
 
 </manifest>
